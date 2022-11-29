@@ -40,6 +40,7 @@ if (process.platform == 'win32') {
 } else if (process.platform == 'darwin') {
     ppapi_flash_path = `${__dirname}\PepperFlashPlayer.plugin`
 }
+/* to-do: MAC (iOS) support cooming soon... */ 
 
 app.commandLine.appendSwitch('ppapi-flash-path', ppapi_flash_path);
 
