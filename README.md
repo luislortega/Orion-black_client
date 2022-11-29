@@ -1,12 +1,8 @@
-# Darkorbit-client
+# Orion-black_client
  
 ### Install
-Clone this project
 
-```bash
-> git clone https://github.com/kaiserdj/Darkorbit-client.git
-> cd Darkorbit-client
-```
+Clone this project
 
 Install the dependencies:
 
